@@ -1,0 +1,17 @@
+about code implementation pdf 
+
+
+how to approach the concepts properly and how long should i take to get over the concepts.(do i have to gothrough all the perspectives or just informations used for codes is enough)
+
+there are many mathematical equations involves in this concepts , how can i approach those ?
+
+where to study and clarify the concepts.(youtube/websites/books)
+
+how to do code implentations initaily when the concepts are new to me.
+
+how can i analyse the algorithm / libraries. how can i study the libraries (all the methods or methods used only in codes)
+
+please tell me about the input data which i currently going to use in the learning phase.
+
+the TIF file which you send was totally back and very dark , please clarify me how can i work with it. the conversion of the dark TIF file to png is also not understandable.
+

@@ -1,0 +1,11 @@
+perspectives of image analysis:
+
+image could be taken at any time and at any angle
+similar Textures (buildings may have same color roof as roads)
+we have to identify the roads and railway track
+Data Quality and Resolution
+Infrastructure Complexity (different size of roads or buildings)
+Seasonal Changes and Weather Conditions
+irregular shadowing
+complex geometries of buildings
+Urban and Rural Environments

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../PROGRAMMING/PYTHON/.idea/PYTHON.iml" filepath="$PROJECT_DIR$/../../../PROGRAMMING/PYTHON/.idea/PYTHON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code implementation.iml" filepath="$PROJECT_DIR$/.idea/code implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../computer classes/DSA in python/geeks-for-geeks/programms/.idea/programms.iml" filepath="$PROJECT_DIR$/../../../computer classes/DSA in python/geeks-for-geeks/programms/.idea/programms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../work space/.idea/work space.iml" filepath="$PROJECT_DIR$/../work space/.idea/work space.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+Varunesh Auto map generation from satellite images
+
+1. Write the code so that:
+   A. user must specify the input directory
+
+   B. user must specify the output directory
+
+   C. the sub-directory structure within the root output directory must be identical to that of input directory
+
+   D. Your program will read all files in the input directory, do necessary manipulation and store outputs meant for review, or final output in the output directory.  
+
+   E. Output directory structure will be like:
+      c:/blah blah blah/tiffToPng/same structure as input
+      c:/blah blah blah/greyScaleConv/same structure as input
+      c:/blah blah blah/greyScaleConvChart/same structure as input
+
+   F. Write file names correctly.  Have prefixes that indicate sequence of execution
+ 
+Do multilevel-Otsu for 2 (4 levels) or 3 bits (8 levels)
+   
+https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_multiotsu.html
+https://realpython.com/python-opencv-color-spaces
+https://github.com/sanjanprakash/Color-based-Image-Segmentation-using-K-Means-clustering 
+

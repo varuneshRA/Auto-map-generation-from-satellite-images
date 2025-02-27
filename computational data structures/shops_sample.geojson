@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/1474451368",
+            "properties": {
+                "@id": "node/1474451368",
+                "name": "Shreshta gift shop",
+                "shop": "gift",
+                "@timestamp": "2011-10-20T19:10:12Z",
+                "@version": 1,
+                "@changeset": 9611415,
+                "@user": "MadhanBabu",
+                "@uid": 535383,
+                "@osm3s:version": 0.6,
+                "@osm3s:generator": "Overpass API 0.7.61.5 4133829e",
+                "@osm3s:timestamp_osm_base": "2024-02-18T07:44:15Z",
+                "@osm3s:copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.974764,
+                    10.9951464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1470399506",
+            "properties": {
+                "@id": "node/1470399506",
+                "name": "Cheran Towers",
+                "shop": "supermarket",
+                "@timestamp": "2011-10-17T03:05:00Z",
+                "@version": 1,
+                "@changeset": 9578234,
+                "@user": "Shankari m",
+                "@uid": 536411,
+                "@osm3s:version": 0.6,
+                "@osm3s:generator": "Overpass API 0.7.61.5 4133829e",
+                "@osm3s:timestamp_osm_base": "2024-02-18T07:44:15Z",
+                "@osm3s:copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9710254,
+                    10.9983403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1470399498",
+            "properties": {
+                "@id": "node/1470399498",
+                "shop": "supermarket",
+                "@timestamp": "2011-10-17T03:05:00Z",
+                "@version": 1,
+                "@changeset": 9578234,
+                "@user": "Shankari m",
+                "@uid": 536411,
+                "@osm3s:version": 0.6,
+                "@osm3s:generator": "Overpass API 0.7.61.5 4133829e",
+                "@osm3s:timestamp_osm_base": "2024-02-18T07:44:15Z",
+                "@osm3s:copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9713472,
+                    10.9994514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/1474451366",
+            "properties": {
+                "@id": "node/1474451366",
+                "name": "Pazhamudhir cholai",
+                "shop": "greengrocer",
+                "@timestamp": "2011-10-20T19:10:12Z",
+                "@version": 1,
+                "@changeset": 9611415,
+                "@user": "MadhanBabu",
+                "@uid": 535383,
+                "@osm3s:version": 0.6,
+                "@osm3s:generator": "Overpass API 0.7.61.5 4133829e",
+                "@osm3s:timestamp_osm_base": "2024-02-18T07:44:15Z",
+                "@osm3s:copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9712903,
+                    10.9996733
+                ]
+            }
+        }
+    ]
+}

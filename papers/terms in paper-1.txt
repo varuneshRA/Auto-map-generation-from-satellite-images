@@ -1,0 +1,21 @@
+terms :
+
+spatial resolution
+perceptual grouping - mapping the buildings
+canny edge detection technique
+hough transforms techniques
+bilateral filter
+histogram equalization
+Grayscaling
+Region-Based Segmentation
+Morphological Operations : Fill operation , opening
+
+
+code implementation(python):
+
+implementation of bilateral filtering
+Real-Time Edge Detection using OpenCV in Python | Canny edge detection method
+histogram equalization - python
+Python | Grayscaling of Images
+Region-Based Segmentation
+Python | Morphological Operations in Image Processing (Opening) | 
